@@ -12,7 +12,7 @@
         <form action="" method="post">
         <div class="card">
             <div class="card-header">
-                <h3 class="h3">Operaciones Matemáticas</h3>
+                <h3 class="h3">Operaciones Matemáticass</h3>
             </div>
             <div class="card-body">
                 <div class="row">
